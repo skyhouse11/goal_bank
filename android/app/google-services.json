@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "563074287567",
+    "firebase_url": "https://goal-bank.firebaseio.com",
+    "project_id": "goal-bank",
+    "storage_bucket": "goal-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563074287567:android:ad071e7c08161f5fa174ba",
+        "android_client_info": {
+          "package_name": "com.appvesto.goal_bank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563074287567-124q5af20d2p6uccjjq88lr16qoeecvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.appvesto.goal_bank",
+            "certificate_hash": "da2e70ebc7d9c8c2cd8991cbe3193c05ad14a086"
+          }
+        },
+        {
+          "client_id": "563074287567-r0la58gs7lb7b07nhnsddb7l66jnk2r4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4nC0Ir9KjHs8nFG65Aaw-ZG71u6aXm6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563074287567-r0la58gs7lb7b07nhnsddb7l66jnk2r4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
