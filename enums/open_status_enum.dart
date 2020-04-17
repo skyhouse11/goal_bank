@@ -1,0 +1,4 @@
+enum GoalAnimationStatus {
+  OPEN,
+  CLOSED,
+}

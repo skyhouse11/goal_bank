@@ -1,0 +1,7 @@
+enum StatusBar {
+  UNDER20,
+  UNDER40,
+  UNDER60,
+  UNDER80,
+  UNDER100
+}
